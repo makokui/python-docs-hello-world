@@ -5,7 +5,7 @@ Flask-Cors==3.0.4 "--no-cache-dir"
 scikit-learn==0.20.0 "--no-cache-dir"
 requests==2.19.1 "--no-cache-dir"
 scipy==1.1.0 "--no-cache-dir"
-numpy==1.14.3 "--no-cache-dir"
+numpy==1.14.5 "--no-cache-dir"
 pandas==0.23.0 "--no-cache-dir"
 click==6.7
 itsdangerous==0.24
