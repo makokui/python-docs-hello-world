@@ -1,9 +1,6 @@
-"Flask==1.0.2 --no-cache-dir"
-"Janome==0.3.6 --no-cache-dir"
-xlrd==1.1.0 "--no-cache-dir"
-Flask-Cors==3.0.4 "--no-cache-dir"
-scikit-learn==0.20.0 "--no-cache-dir"
-requests==2.19.1 "--no-cache-dir"
-scipy==1.1.0 "--no-cache-dir"
-numpy==1.14.3 "--no-cache-dir"
-pandas==0.23.0 "--no-cache-dir"
+click==6.7
+Flask==1.0.2
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+Werkzeug==0.14.1
